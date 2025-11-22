@@ -1,0 +1,18 @@
+src/
+  main.jsx
+  index.jsx
+  App.jsx
+  store/
+    store.js
+    budgetSlice.js
+  providers/
+    ReduxProvider.jsx
+  components/
+    EntryForm.jsx
+    EntryList.jsx
+    SummaryPanel.jsx
+    SpendingCharts.jsx
+    CategoryBreakdownChart.jsx
+    TimeRangeSelector.jsx
+  layouts/
+    Dashboard.jsx
